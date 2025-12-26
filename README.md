@@ -134,6 +134,39 @@ Get Order By ID
 List Orders by Customer
 <img width="940" height="592" alt="image" src="https://github.com/user-attachments/assets/fca1a39b-2835-4a89-bd5e-3b342d6e94ad" />
 
+BONUS 2 – Authentication & Authorization
+
+Generate JWT Token
+
+<img width="940" height="459" alt="image" src="https://github.com/user-attachments/assets/8874bede-c14e-4627-b7e8-c397966c8b77" />
+
+<img width="940" height="431" alt="image" src="https://github.com/user-attachments/assets/5011d108-d4ff-4452-9d23-5f81c635282a" />
+
+Create Order without Token 
+
+<img width="940" height="474" alt="image" src="https://github.com/user-attachments/assets/0c7067fa-b809-44f8-baea-de4c5fdd60d5" />
+
+Create Order with Token
+
+<img width="940" height="505" alt="image" src="https://github.com/user-attachments/assets/aefb1aa1-9e07-4165-8363-203b032f8e82" />
+ 
+View order of own orders by user token
+
+<img width="940" height="497" alt="image" src="https://github.com/user-attachments/assets/2ea1e468-9a4c-4c4e-81e0-6d2bb3b43e51" />
+
+View order of others user orders by user token
+
+<img width="940" height="480" alt="image" src="https://github.com/user-attachments/assets/b0cf89da-0e81-4978-8ce1-a9c0be2e07d8" />
+
+
+
+
+
+
+
+
+
+
 
 
 

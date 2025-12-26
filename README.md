@@ -154,21 +154,7 @@ View order of own orders by user token
 
 <img width="940" height="497" alt="image" src="https://github.com/user-attachments/assets/2ea1e468-9a4c-4c4e-81e0-6d2bb3b43e51" />
 
-View order of others user orders by user token
+View order of other user orders by user token
 
 <img width="940" height="480" alt="image" src="https://github.com/user-attachments/assets/b0cf89da-0e81-4978-8ce1-a9c0be2e07d8" />
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
